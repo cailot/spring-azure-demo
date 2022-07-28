@@ -8,6 +8,6 @@ public class HomeController {
     
     @GetMapping("/message")
     public String message() {
-        return "Congratulation ! Jinhyung Seo's app deployed successfully in Azure !!!";
+        return "Hello ! My name is Jinhyung Seo from Azure !!!";
     }
 }
