@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
@@ -51,3 +52,6 @@ jobs:
           slot-name: 'production'
           publish-profile: ${{ secrets.AzureAppService_PublishProfile_02778f1122464aea9231ba2e65fee99c }}
           package: '*.jar'
+=======
+# spring-azure-demo
+>>>>>>> refs/remotes/origin/main
